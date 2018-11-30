@@ -1,3 +1,6 @@
 language: c
 dist: xenial
 script: make dep && make test
+
+before_install:
+  - sudo apt-get install -y check
