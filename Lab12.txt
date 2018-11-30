@@ -1,0 +1,7 @@
+Tyler Tokumoto (tyto8880@colorado.edu)
+
+Forked Repo:
+https://github.com/tyto8880/CU-CSCI3308-CIPractice
+
+Travis Build:
+https://travis-ci.com/tyto8880/CU-CSCI3308-CIPractice
